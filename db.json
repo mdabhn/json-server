@@ -1,4 +1,9 @@
 {
-  "name": "Hossain",
-  "age": "26"
+  "users": [
+    {
+      "name": "John",
+      "age": "22",
+      "gender": "male"
+    }
+  ]
 }
